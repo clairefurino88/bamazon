@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon like app to record products and stock",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairefurino88/bamazon.git"
+  },
+  "author": "claire furino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairefurino88/bamazon/issues"
+  },
+  "homepage": "https://github.com/clairefurino88/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
