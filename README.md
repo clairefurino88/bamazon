@@ -1,6 +1,6 @@
 # Functionality
 
-##bamazon Customer Feature
+## bamazon Customer Feature
 
 ![screenshot 3](https://user-images.githubusercontent.com/33135335/38774153-3273b7e4-402f-11e8-9583-2be5a1f6426a.png)
 ### The database, as seen on the left column, has been populated with around 10 different products.
@@ -21,4 +21,4 @@
 ### If the store does have enough of the product, the customers order is fulfilled and the database automatically updates its stock.
 ### This can be seen in the left column as the mouse 'stock_quanity' decreased by two after two mouse's were purchased
 
-##bamazon Manager Feature
+## bamazon Manager Feature
