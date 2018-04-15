@@ -30,3 +30,26 @@ If the store does have enough of the product, the customers order is fulfilled a
 This can be seen in the left column as the mouse 'stock_quanity' decreased by two after two mouse's were purchased
 
 ## bamazon Manager Feature
+
+![options](https://user-images.githubusercontent.com/33135335/38774467-d44d79da-4037-11e8-9851-2627da948745.png)
+First the manager is offered the different options: View Products, View Low Inventory, Add to Inventory, Add New Product, and Exit
+
+&nbsp;
+
+![viewproducts](https://user-images.githubusercontent.com/33135335/38774468-ea16b2e0-4037-11e8-91e3-043c577f6e9c.png)
+When the manager selects View Products for Sale, the bamazonManager.js lists every available item
+
+&nbsp;
+
+![viewlowinventory](https://user-images.githubusercontent.com/33135335/38774472-fccf2dcc-4037-11e8-8865-e28993df943d.png)
+When the manager selects View Low Inventory, the bamazonManager.js lists all items with an inventory count lower than five.
+
+&nbsp;
+
+![addinventory](https://user-images.githubusercontent.com/33135335/38774476-0d2b7a68-4038-11e8-98d1-6a0b06500082.png)
+When the manager selects Add to Inventory, the bamazonManager.js displays a prompt that will let the manager "add more" of any item currently in the store and it is updated in the database. As you can see, after 8 pillows were added, the database updated from 50 pillow to 58 pillows.
+
+&nbsp;
+
+![screenshot 15](https://user-images.githubusercontent.com/33135335/38774496-972bceb6-4038-11e8-86ff-bfc442bf119f.png)
+When the manager selects Add New Product, the bamazonManager.js allows the manager to add a completely new product and customize the department, price, and the sotck available to the store. This is then automatically updated in the database. As seen in the screenshot, the database is updated with 25 blouse's for $40.00 each in the database.
