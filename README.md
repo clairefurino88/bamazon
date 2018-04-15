@@ -12,7 +12,9 @@
 ### The user is asked to confirm their order before completing it
 ### Once the customer has placed the order bamazonCustomer.js checks if the store (database) has enough of the product to meet the customer's request.
 
+![screenshot 8](https://user-images.githubusercontent.com/33135335/38774235-d4daec08-4031-11e8-9542-059aab0cb667.png)
 ### If the store has insufficient quntities, it read "Insufficient quantity!"
 
 ![screenshot 7](https://user-images.githubusercontent.com/33135335/38774196-e7d5ebd8-4030-11e8-9d3a-4cc470579018.png)
 ### If the store does have enough of the product, the customers order is fulfilled and the database automatically updates its stock.
+### This can be seen in the left column as the mouse 'stock_quanity' decreased by two after two mouse's were purchased
